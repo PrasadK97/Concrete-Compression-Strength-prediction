@@ -9,5 +9,6 @@ Achievements:
 
 Successfully built regression models with 98.85 accuracy, allowing precise strength prediction.
 Enhanced quality control processes by categorizing concrete samples into strength classes, aiding in decision-making during construction.
+
 Impact: The project's outcomes have the potential to significantly improve construction efficiency and reduce costs by optimizing material selection and strength assessment.
 
